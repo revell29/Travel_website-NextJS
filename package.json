@@ -8,8 +8,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "^9.8.6",
     "next": "9.5.5",
+    "next-react-svg": "^1.1.2",
+    "next-seo": "^4.14.1",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-multi-carousel": "^2.5.5",
+    "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.3",
+    "@types/react": "^16.9.53",
+    "postcss-import": "^13.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "typescript": "^4.0.3"
   }
 }
