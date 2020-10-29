@@ -7,13 +7,13 @@ import { Banner } from "../components/Banner";
 import { Footer } from "../components/Footer";
 
 const DEFAULT_SEO = {
-  title: "Travel Web (Apsyadira)",
+  title: "Travel Site (Apsyadira)",
   description: "Example travel web built with NextJS and Tailwindcss",
   openGraph: {
     type: "website",
     locale: "en_IE",
     url: "https://apsyadira.com",
-    title: "Travel Web (Apsyadira)",
+    title: "Travel Site (Apsyadira)",
     description: "Example travel web built with NextJS and Tailwindcss",
     image:
       "https://prismic-io.s3.amazonaws.com/gary-blog%2F3297f290-a885-4cc6-9b19-3235e3026646_default.jpg",
@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <>
       <NextSeo
-        title="Travel Web (Apsyadira)"
+        title="Travel Site (Apsyadira)"
         description="Example travel web built with NextJS and Tailwindcss"
         openGraph={DEFAULT_SEO}
         additionalMetaTags={[
