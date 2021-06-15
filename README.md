@@ -8,7 +8,7 @@ this project was built with Next JS and tailwind CSS.
 
 ## Live Demo
 
-you can see the completed website in action [here](travel.apsyadira.com)
+you can see the completed website in action [here](//travel.apsyadira.com)
 
 ## Getting Started
 
